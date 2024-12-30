@@ -18,5 +18,6 @@ AI 기초학습으로 파이썬 학습 진행용
 2. Colab단축키 : https://surfonmedia.tistory.com/1
 
 타임라인
-- 이론과정(TimeLine) : 2024.12.17 ~
+- 이론과정(TimeLine) : 2024.12.17 ~ 2024.12.29
+- 코드학습 : 2024.12.17 ~
   
